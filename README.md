@@ -7,14 +7,27 @@ Timely delivery is crucial in software project management because it directly im
 
 Project managers can help ensure deadlines are met by:
 
-Setting Clear Objectives and Milestones.
-Employ agile practices, such as iterative sprints, to allow regular assessment of work and early identification of issues.
-Allocate team members based on their skills and ensure no one is overloaded, balancing workloads effectively.
-Focus on high-priority and high-impact tasks to keep the project on track.
-Maintain open communication with the team and stakeholders to ensure everyone is aligned and issues are addressed quickly.
-Use project management tools eg Trello to track progress and adjust plans if necessary to avoid delays.
+1. Setting Clear Objectives and Milestones.
+2. Employ agile practices, such as iterative sprints, to allow regular assessment of work and early identification of issues.
+3. Allocate team members based on their skills and ensure no one is overloaded, balancing workloads effectively.
+4. Focus on high-priority and high-impact tasks to keep the project on track.
+5. Maintain open communication with the team and stakeholders to ensure everyone is aligned and issues are addressed quickly.
+6. Use project management tools eg Trello to track progress and adjust plans if necessary to avoid delays.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+
+Effective cost control is essential to the success of a software project because it ensures that the project stays within budget while meeting its goals.
+By managing costs carefully, a project can avoid financial strain, reduce the risk of delays caused by funding shortages, and allocate resources efficiently to maintain or even enhance quality.
+
+Strategies to Prevent Budget Overruns:
+1. Detailed Project Planning
+2. Accurate Estimation by Using historical data and expert judgment to create realistic cost estimates.
+3. Regular Monitoring and Reporting
+4. Identify and assess risks early, and prepare contingency plans to avoid unexpected costs.
+5. Prioritize Requirements by Using techniques like agile methodologies to deliver essential features first and continuously evaluate which features provide the most value. 
+6. Resource Optimization; allocate resources effectively and avoid over-staffing or under-staffing. 
+7. Scope Control; develop the scope of the project during the planning face to assist in manging cost, this will help i avoiding unnecessary decisions
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
