@@ -29,6 +29,35 @@ Strategies to Prevent Budget Overruns:
 7. Scope Control; develop the scope of the project during the planning face to assist in manging cost, this will help i avoiding unnecessary decisions
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+
+The comparison between agile and waterfall methodologies;
+1. Waterfall follows a linear, sequential process where each phase must be completed before moving to the next while Agile emphasizes flexibility and iterative progress, allowing for constant revisions and adaptation.
+2. Waterfall requires clear and detailed requirements upfront while Agile accommodates evolving requirements throughout the development process.
+3. Waterfall involves formal documentation and limited interaction between teams until the testing phase while Agile encourages frequent, collaborative meetings to discuss progress, challenges, and next steps.
+4. Waterfall progresses according to a planned schedule, often leading to a final product delivered at the end of the development cycle while Agile delivers small parts of the product continuously.
+
+   Advantages of waterfall methodology
+   1.  Clear structure and documentation.
+   2.  Clear structure and documentation.
+   3.  Easier to manage with fixed requirements.
+   4.  Suited for projects with clear, unchanging requirements.
+  
+   Disadvantages of waterfall methodology
+   1.  Inflexible to changes once the project is underway.
+   2.  Limited visibility into progress until the end phases.
+   3.  Late testing can lead to high costs for fixing issues.
+  
+   Advantages of Agile methodology
+   1. Adaptable to changing requirements.
+   2. Early delivery of usable components.
+   3. Continuous testing reduces the risk of late-stage issues.	
+
+  Disadvantages of Agile methodology
+ 1. Requires more intensive collaboration and communication.
+ 2. Less predictable timelines and costs
+ 3. Documentation may be less comprehensive.
+
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
