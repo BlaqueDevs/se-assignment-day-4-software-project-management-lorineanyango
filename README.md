@@ -59,6 +59,10 @@ The comparison between agile and waterfall methodologies;
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile is More Beneficial than waterfall when one has evolving or unclear requirements, Requires frequent updates and iterations, Benefits from ongoing customer or stakeholder feedback, Operates in dynamic environments where flexibility is critical. eg Mobile App Development, E-commerce Websites
+
+Waterfall works best for projects that; Have clearly defined, stable requirements from the start, Require a structured, linear process with specific deadlines, and Involve regulatory, compliance, or safety standards that necessitate strict controls. eg Regulatory Compliance Systems, Construction or Infrastructure Projects, Embedded Systems in Hardware
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
