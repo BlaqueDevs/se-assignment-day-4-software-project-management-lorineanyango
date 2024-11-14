@@ -98,7 +98,13 @@ WBS is usefull because;
 A Work Breakdown Structure (WBS) is a visual or hierarchical representation that breaks down a project into smaller, manageable components, often organized in a tree format.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+Developing a detailed project schedule is beneficial because it provides a clear timeline, ensures alignment on deadlines, and helps the team understand task dependencies and their responsibilities.
+
+Gantt charts are a valuable tool for scheduling because they visually represent tasks, deadlines, and dependencies.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Mys software aims to
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
