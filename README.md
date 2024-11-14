@@ -66,24 +66,37 @@ Waterfall works best for projects that; Have clearly defined, stable requirement
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
 Methods for Quality Assurance
-Automated Testing
-Continuous Integration 
-Code Reviews
-Manual Testing
-Performance and Load Testing
-Documentation and Checklists
+
+1. Automated Testing
+2. Continuous Integration 32. Code Reviews
+3. Manual Testing
+4. Performance and Load Testing
+5. Documentation and Checklists
 
 
 Importance of Maintaining High Standards
-User Satisfaction- High-quality software performs reliably, enhancing the user experience and encouraging continued use.
-Cost Efficiency- Identifying and fixing issues early in development is far less costly than post-release corrections.
-Reputation- Consistent quality helps build a positive reputation, which is especially important for customer trust and future business.
-Security- High standards reduce the risk of security vulnerabilities, which could lead to data breaches and loss of user trust.
-Longevity and Maintenance- Quality code is easier to maintain, making future updates or scaling efforts more manageable.
+
+1. User Satisfaction- High-quality software performs reliably, enhancing the user experience and encouraging continued use.
+2. Cost Efficiency- Identifying and fixing issues early in development is far less costly than post-release corrections.
+3. Reputation- Consistent quality helps build a positive reputation, which is especially important for customer trust and future business.
+4. Security- High standards reduce the risk of security vulnerabilities, which could lead to data breaches and loss of user trust.
+5. Longevity and Maintenance- Quality code is easier to maintain, making future updates or scaling efforts more manageable.
 
 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+Defining the project scope is crucial to successful project planning because it sets clear boundaries for what the project will deliver, helps prevent scope creep (unplanned changes or expansion), aligns stakeholder expectations, and ensures that resources are allocated efficiently, It divides the project’s scope into distinct deliverables, sub-tasks, and individual work packages, making complex projects easier to understand and manage.
+
+WBS is usefull because; 
+
+1. It clarifies all necessary tasks, helping the team understand what needs to be completed.
+2. Helps in assigning resources to specific tasks and estimating time and cost for each component.
+3. Allows tracking of progress at every level, facilitating milestone achievement and ensuring that no task is overlooked.
+4. Identifies potential challenges in each component, enabling proactive risk assessment and mitigation.
+
+A Work Breakdown Structure (WBS) is a visual or hierarchical representation that breaks down a project into smaller, manageable components, often organized in a tree format.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
