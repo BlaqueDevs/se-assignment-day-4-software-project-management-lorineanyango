@@ -64,6 +64,25 @@ Agile is More Beneficial than waterfall when one has evolving or unclear require
 Waterfall works best for projects that; Have clearly defined, stable requirements from the start, Require a structured, linear process with specific deadlines, and Involve regulatory, compliance, or safety standards that necessitate strict controls. eg Regulatory Compliance Systems, Construction or Infrastructure Projects, Embedded Systems in Hardware
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+
+Methods for Quality Assurance
+Automated Testing
+Continuous Integration 
+Code Reviews
+Manual Testing
+Performance and Load Testing
+Documentation and Checklists
+
+
+Importance of Maintaining High Standards
+User Satisfaction- High-quality software performs reliably, enhancing the user experience and encouraging continued use.
+Cost Efficiency- Identifying and fixing issues early in development is far less costly than post-release corrections.
+Reputation- Consistent quality helps build a positive reputation, which is especially important for customer trust and future business.
+Security- High standards reduce the risk of security vulnerabilities, which could lead to data breaches and loss of user trust.
+Longevity and Maintenance- Quality code is easier to maintain, making future updates or scaling efforts more manageable.
+
+
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
